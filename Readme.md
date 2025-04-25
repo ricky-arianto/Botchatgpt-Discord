@@ -28,7 +28,15 @@ OPENAI_API_KEY=your-openai-api-key
 "node index.js"
 
 📁 Struktur Folder
-ChatGPT-discord/ │ ├── index.js # File utama ├── package.json # Konfigurasi npm ├── .env.example # Contoh konfigurasi environment ├── .gitignore # Mengabaikan file .env └── README.md
+```
+ChatGPT-discord/
+│
+├── index.js          # File utama
+├── package.json      # Konfigurasi npm
+├── .env.example      # Contoh konfigurasi environment
+├── .gitignore        # Mengabaikan file .env
+└── README.md         # Dokumentasi proyek
+```
 
 💡 Tips
 Jangan pernah mengupload file .env ke GitHub.
