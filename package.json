@@ -1,0 +1,10 @@
+{
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^14.x.x",
+    "dotenv": "^10.x.x",
+    "openai": "^4.63.0"
+  }
+}
