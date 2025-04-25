@@ -4,11 +4,11 @@ Bot Discord yang terintegrasi dengan OpenAI (ChatGPT) untuk memberikan jawaban c
 
 ---
 🚀 Fitur
-
+```
 - Menggunakan OpenAI GPT untuk menjawab pertanyaan.
 - Bot Discord aktif merespons perintah.
 - Konfigurasi mudah menggunakan file `.env`.
-
+```
 ---
 🔧 Instalasi
 
@@ -17,16 +17,18 @@ git clone https://github.com/ricky-arianto/ChatGPT-discord.git
 cd ChatGPT-discord
 
 2. Install Dependencies
+```
 "npm install"
-
+```
 3. Buat File .env
- isi token nya sesuai dengan milik anda
+ ```isi token nya sesuai dengan milik anda
 DISCORD_TOKEN=your-discord-bot-token
 OPENAI_API_KEY=your-openai-api-key
-
+```
 4. jalankan bot
+```
 "node index.js"
-
+```
 📁 Struktur Folder
 ```
 ChatGPT-discord/
