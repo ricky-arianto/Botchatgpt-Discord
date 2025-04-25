@@ -52,7 +52,7 @@ ChatGPT-discord/
 MIT License – bebas digunakan, silakan modifikasi dan kembangkan. untuk share Jangan lupa cantumkan Link Github ini
 
 Dibuat / di modif oleh Ricky Arianto
-Fyi Dalam pembuatan ini saya lupa saya buat sendiri atau ada bantuan awal dari mana.
+`note Dalam pembuatan ini saya lupa saya buat sendiri atau ada bantuan awal dari mana.`
 
 Contoh respon Bot
 ![Contoh Bot](./contohhh.png)
