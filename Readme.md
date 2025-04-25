@@ -41,18 +41,18 @@ ChatGPT-discord/
 ```
 
 💡 Tips
-Jangan pernah mengupload file .env ke GitHub.
+- Jangan pernah mengupload file .env ke GitHub.
 
-Kamu bisa mendapatkan OpenAI API Key.https://platform.openai.com/account/api-keys
+- Kamu bisa mendapatkan OpenAI API Key.https://platform.openai.com/account/api-keys
 
-Kamu bisa membuat bot token di Discord Developer Portal. https://discord.com/developers/applications
+- Kamu bisa membuat bot token di Discord Developer Portal. https://discord.com/developers/applications
 
 
 🛡️ Lisensi
-MIT License – bebas digunakan, silakan modifikasi dan kembangkan.
+MIT License – bebas digunakan, silakan modifikasi dan kembangkan. untuk share Jangan lupa cantumkan Link Github ini
 
-Dibuat oleh Ricky Arianto
-
+Dibuat / di modif oleh Ricky Arianto
+Fyi Dalam pembuatan ini saya lupa saya buat sendiri atau ada bantuan awal dari mana.
 
 Contoh respon Bot
 ![Contoh Bot](./contohhh.png)
