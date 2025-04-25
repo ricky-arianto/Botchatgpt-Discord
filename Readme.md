@@ -48,7 +48,6 @@ Kamu bisa membuat bot token di Discord Developer Portal. https://discord.com/dev
 🛡️ Lisensi
 MIT License – bebas digunakan, silakan modifikasi dan kembangkan.
 
-📬 Kontak
 Dibuat oleh Ricky Arianto
 
 
